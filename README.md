@@ -1,7 +1,7 @@
 # Pavlo Sharipov
 
 **Umschüler zum Fachinformatiker für Anwendungsentwicklung (FIAE)**  
-Schwerpunkt: Backend-Entwicklung, REST APIs, Datenbanken, Linux und Automatisierung.
+Mein Schwerpunkt liegt aktuell in der Backend-Entwicklung, insbesondere in REST APIs, Datenbanken, Linux und Automatisierung. Gleichzeitig möchte ich meine Kenntnisse gezielt im Frontend-Bereich erweitern und bin offen für Full-Stack-Aufgaben im Praktikum.
 
 Ich suche ein **Pflichtpraktikum vom 09.10.2026 bis 12.07.2027** im Bereich Softwareentwicklung / Backend-Entwicklung.
 
