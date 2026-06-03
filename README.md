@@ -61,4 +61,4 @@ Repository: https://github.com/pavel-sharipov/ansible-vps-bootstrap
 ## Kontakt
 
 - GitHub: https://github.com/pavel-sharipov
-- E-Mail: pavel.sharipov@icloud.com
+- E-Mail: pavel.sharipov@gmail.com
