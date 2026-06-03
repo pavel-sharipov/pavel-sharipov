@@ -12,7 +12,7 @@ Ich suche ein **Pflichtpraktikum vom 09.10.2026 bis 12.07.2027** im Bereich Soft
 - SQL, PostgreSQL, MongoDB
 - Docker, Linux, Git
 - CI/CD, GitHub Actions
-- Ansible, Deployment, Monitoring-Grundlagen
+- Ansible, Deployment, Systemadministration
 
 ## Ausgewählte Projekte
 
